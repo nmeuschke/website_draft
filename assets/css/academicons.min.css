@@ -173,7 +173,7 @@
 }
 
 .ai-google-scholar:before {
-  	content: "\e9d4"
+  	content: "\e9d4";
     margin-right: 5px;
     font-size: 18px;
     vertical-align: middle;
